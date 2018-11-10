@@ -2,7 +2,7 @@ README
 
 *Definition of Project*
 
-This project was in response to a 4 hour Design Sprint exercise, as a part of Tallahassee StartUp Week.
+This project was in response to a 4 hour Design Sprint exercise, as a part of Tallahassee StartUp Week 2018.
 The project in question was: Help restaurants reduce food waste, while increasing revenue.
 
 *Solution*
