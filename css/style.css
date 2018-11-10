@@ -1,0 +1,37 @@
+ .numbers {
+	 font-size:60px;
+	 border: 2px black solid;
+	 background-color: #c0c0c0;
+	 text-align:center;
+	
+ }
+ 
+ .warning {
+	 color: yellow;
+	
+ }
+ 
+ .danger {
+	 color: red;
+ }
+ td {
+	 padding: 10px;
+	 border: 2px solid black
+	 
+ }
+ 
+ h1 {
+	 font-size:80px;
+ }
+ /*
+display:none;
+ 
+ */
+ 
+ td.button {
+	 background-color:#000000:
+	 border-radius: 10px;
+	 width:300px;
+	 height:300px:
+	 
+ }

@@ -1,0 +1,38 @@
+Understand
+Define the problem, audience, and value
+
+Diverge
+Explore, develop and iterate creative ways to solve the problem
+
+Converge
+ID the ideas that solve the problem best and explore in further detail
+
+Prototype
+Make alow Fi mockup of the product or concept
+
+Share
+
+-Issue to solve
+How can we help local restaurants cut down on food waste while also increase revenue?
+
+Order on demand- they only cook 
+
+
+How might we?
+Help (user group)
+Do  (problem to be solved)
+while they're (context, time, activity)
+
+User Journey (User stories - all of the experiences that the user has - what are their pain points)
+User:
+  Action
+  Motivation
+  Emotion
+  Barriers
+
+
+Brainstorming
+Crazy 8's (8 ideas in 8 minutes)
+Solution sketch of one idea
+
+Prototype
