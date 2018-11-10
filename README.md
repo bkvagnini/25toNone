@@ -23,7 +23,10 @@ I created a webpage to mimick the numbers turning off as the Chef Surprise dishe
 *Team Members:*
 
 Brian K. Vagnini (briankvagnini.com | vagnini.net)
+
 Some guy whose name was difficult to pronounce. I did not get his business card. This will be updated if I find out, as his help was invaluable.
+
 Alexis Gayda (Alexisgayda.com)
+
 Cynthia Portalatin (facebook.com/cmp.rose)
 
